@@ -1,6 +1,10 @@
 # Experiment---10 
 
-### Aim 
+### Aim  
+To study and implement Pointer Operations (Call by value and Call by reference). 
+
+### Software Used 
+VS Code 
 
 ### Theory 
 
