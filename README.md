@@ -88,6 +88,6 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---10/blob/main/Output_10B.png) 
 
 (C) <br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---10/blob/main/Output_10C%20.png) 
 
 ### Conclusion 
