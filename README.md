@@ -104,4 +104,5 @@ int main()
 (C) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---10/blob/main/Output_10C%20.png) 
 
-### Conclusion 
+### Conclusion  
+I learnt about pointers and how to pass arguments to functions using call by value and call by reference methods. I also learnt how to swap values using call by reference. 
