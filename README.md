@@ -7,7 +7,16 @@ To study and implement Pointer Operations (Call by value and Call by reference).
 VS Code 
 
 ### Theory 
-
+Pointers are symbolic representations of addresses.  <br> 
+We can pass arguments to funtions using different methods mainly call by value and call by reference. <br> 
+##### Call by value 
+In the call-by-value method, function arguments are passed by copying the value of the actual parameter, ensuring the original values remain unchanged. <br> 
+The value is copied to the formal parameter. <br> 
+Any changes made to the parameters within the function do not change the original values outside the function. <br> 
+##### Call by reference 
+In the call-by-reference method, the memory address (reference) of the actual parameter is passed to the function, allowing direct access and modification of the original values. <br> 
+The actual and the formal parameters point to the same memory address.  <br>                                                         
+Any changes made to the parameters within the function are directly reflected in the original values outside the function. <br> 
 ### Code 
 
 (A) <br> 
