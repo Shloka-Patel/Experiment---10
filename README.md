@@ -17,6 +17,7 @@ Any changes made to the parameters within the function do not change the origina
 In the call-by-reference method, the memory address (reference) of the actual parameter is passed to the function, allowing direct access and modification of the original values. <br> 
 The actual and the formal parameters point to the same memory address.  <br>                                                         
 Any changes made to the parameters within the function are directly reflected in the original values outside the function. <br> 
+
 ### Code 
 
 (A) <br> 
