@@ -51,6 +51,10 @@ int main()
 
 (B) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 10(B)      
+
 // Swapping the values 
 
 #include<iostream> 
