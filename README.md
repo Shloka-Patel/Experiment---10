@@ -22,6 +22,10 @@ Any changes made to the parameters within the function are directly reflected in
 
 (A) <br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 10(A) 
+
 // Printing the values by using callby value 
 
 #include<iostream> 
